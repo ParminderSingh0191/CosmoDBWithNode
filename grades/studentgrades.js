@@ -2,7 +2,7 @@
 var question = require('readline-sync').question;
 
 let config = {
-    connectionString: "AccountEndpoint=https://psschool.documents.azure.com:443/;AccountKey=qBOfGp7qv6fmuoBDtBBg5K4XrfdmUKu4vAwC77RQfiGj7UTLHZohBqKn0KcEmUNil7S82nDN0SwN3BjsLWmsWQ==",
+    connectionString: "Cosmo DB connection string",
     database: "SchoolDB",
     container: "StudentCourseGrades"
 }
